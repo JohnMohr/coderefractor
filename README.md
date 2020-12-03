@@ -2,8 +2,10 @@
 
 ## Installation
 
-To download, get ssh from https://github.com/JohnMohr/coderefractor 
+To download, get ssh from https://github.com/JohnMohr/coderefractor
+
 Access through a git pull to desired location and open with VSCode.
+
 Stylesheet and images can be found in the assets subfolders.  
 
 ## Usage
@@ -12,8 +14,11 @@ Sections introduce how Horiseon will optimize your standing in search engine opt
 
 ## Credits
 VSCode @ https://code.visualstudio.com/
+
 GitBash @ https://git-scm.com/
+
 www.bootcampspot.com and all the awesome teachers and TAs. TY TY TY.
+
 John Mohr @ https://github.com/JohnMohr. 
 
 
