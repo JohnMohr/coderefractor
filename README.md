@@ -12,15 +12,15 @@ Stylesheet and images can be found in the assets subfolders.
 Website use for exposing future clients to search engine optimization.
 Sections introduce how Horiseon will optimize your standing in search engine queries, 
 ```md
-![alt text](assets/images/search-engine-optimization.jpg)
+![alt text](assets/images/search-engine-optimization.jpg?raw=true "Search Engine Optimization")
 ```
 how to manage online reputation, 
 ```md
-![alt text](assets/images/online-reputation-management.jpg)
+![alt text](assets/images/online-reputation-management.jpg?raw=true "Manage Online Reputation")
 ```
 and how to market through social media. 
 ```md
-![alt text](assets/images/social-media-marketing.jpg)
+![alt text](assets/images/social-media-marketing.jpg"raw=true "Market Through Social Media")
 ```
 Each section is displayed on the page, as well as acccessible through buttons on the top of the website.
 
