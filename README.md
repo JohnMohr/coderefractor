@@ -10,14 +10,26 @@ Stylesheet and images can be found in the assets subfolders.
 
 ## Usage
 Website use for exposing future clients to search engine optimization.
-Sections introduce how Horiseon will optimize your standing in search engine optimization, how to manage online reputation, and how to market through social media. Each section is displayed on the page, as well as acccessible through buttons on the top of the website.
+Sections introduce how Horiseon will optimize your standing in search engine queries, 
+```md
+![optimize your standing in search engine queries](assets/images/search-engine-optimization.jpg)
+```
+how to manage online reputation, 
+```md
+![how to manage online reputation](assets/images/online-reputation-management.jpg)
+```
+and how to market through social media. 
+```md
+![how to market through social media.](assets/images/social-media-marketing.jpg)
+```
+Each section is displayed on the page, as well as acccessible through buttons on the top of the website.
 
 ## Credits
 VSCode @ https://code.visualstudio.com/
 
 GitBash @ https://git-scm.com/
 
-www.bootcampspot.com and all the awesome teachers and TAs. TY TY TY.
+www.bootcampspot.com Joe and all the awesome teachers and TAs. TY TY TY.
 
 John Mohr @ https://github.com/JohnMohr. 
 
